@@ -1167,7 +1167,7 @@ ul.widget-tab-nav {
 	}
 
 .site-header-image {
-	max-height:200px; 
+	max-height:0px; 
 	min-height:0px; 
 	overflow: hidden;
 	position: relative;
